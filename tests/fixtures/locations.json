@@ -1,0 +1,38 @@
+[
+ {
+  "GeonaID": 9307,
+  "Count": 13802,
+  "Type": "CITY",
+  "Name": "<b>London</b>, England",
+  "CountryCode": "",
+  "Population": 8961989,
+  "HasProviders": true
+ },
+ {
+  "GeonaID": 3768,
+  "Count": 739,
+  "Type": "CITY",
+  "Name": "<b>London</b>, Ontario",
+  "CountryCode": "",
+  "Population": 422324,
+  "HasProviders": true
+ },
+ {
+  "GeonaID": 44045,
+  "Count": 7465,
+  "Type": "CITY",
+  "Name": "<b>London</b>derry, New Hampshire",
+  "CountryCode": "",
+  "Population": 11037,
+  "HasProviders": true
+ },
+ {
+  "GeonaID": 44850,
+  "Count": 1669,
+  "Type": "CITY",
+  "Name": "<b>London</b>, Ohio",
+  "CountryCode": "",
+  "Population": 10060,
+  "HasProviders": true
+ }
+]
